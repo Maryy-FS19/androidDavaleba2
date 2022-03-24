@@ -15,6 +15,7 @@ fun main() {
     println("$symmetry is the symmetric points of p2")
 
 }
+
     //toString მეთოდი
 data class Point(val x: Int, val y: Int){
         override fun toString(): String {
